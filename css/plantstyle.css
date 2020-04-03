@@ -1,3 +1,19 @@
 body{
-	background-color: darkred;
+	margin: 0px;
+}
+
+header{
+	background-color: #8A98A2;
+	text-align: center;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 120px;
+	width: auto;
+	border: 20px solid #4295A3
+		
 }
