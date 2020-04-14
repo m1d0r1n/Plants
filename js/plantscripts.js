@@ -1,1 +1,3 @@
-alert('Möp');
+$(document).ready(function){
+	
+}
